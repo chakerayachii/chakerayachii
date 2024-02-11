@@ -26,7 +26,7 @@ Thank you for your understanding and collaboration!
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayachichaker&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chakerayachii&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ayachichaker)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=chakerayachii)  
 
