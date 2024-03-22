@@ -6,7 +6,7 @@ Thank you for your understanding and collaboration!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayachichaker&label=Profile%20views&color=0e75b6&style=flat" alt="ayachichaker" /> </p>
 <div align="center"> <img src="bnner.jpg"alt="ayachichaker" /> </div>
 
-- 🔭 I’m currently working on **notion Automatization with discord**
+- 🔭 I’m currently working on **Building a chatot using different azure services**
 
 - 💬 Ask me about **anything !!!**
 
